@@ -15,3 +15,5 @@ Minitalk -> [![ressalhi's 42 minitalk Score](https://badge42.vercel.app/api/v2/c
 Philosophers -> [![ressalhi's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl3u4v8qb002609l9ld1bkoup/project/2550055)](https://github.com/JaeSeoKim/badge42)
 
 So_long -> [![ressalhi's 42 so_long Score](https://badge42.vercel.app/api/v2/cl3u4v8qb002609l9ld1bkoup/project/2498941)](https://github.com/JaeSeoKim/badge42)
+
+Push_swap -> [![ressalhi's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl3u4v8qb002609l9ld1bkoup/project/2535244)](https://github.com/JaeSeoKim/badge42)
