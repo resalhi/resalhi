@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rida Essalhi
-- 🌱 I’m currently student in 1337 bg school
+- 🌱 I’m currently student in 1337 school
 - 📫 How to reach me :
 - linkedin : RIDA ESSALHI
 - codingame profile : EXPO_EX
